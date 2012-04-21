@@ -1,9 +1,8 @@
-# =========================================================================================================
-# img.py
-# Scans through path recursively looking for images and moves the files with < minwidth to a tpath folder
-#
-# Mario Cuba <mario@mariocuba.net>
-# =========================================================================================================
+# img.py – Checks image files for their sizes in a given folder (and its subfolders) and moves the matching images to a temporary folder.
+
+# Version 1.0
+# Author: Mario Cuba <mario@mariocuba.net>
+# License: Creative Commons Attribution 3.0 Unported License (see: http://creativecommons.org/licenses/by/3.0)
 
 print # padding
 
